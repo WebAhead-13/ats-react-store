@@ -1,0 +1,9 @@
+.buttonCotainer {
+  display: flex;
+  justify-content: center;
+  width: 70px;
+  border: 1px solid #000;
+  background-color: red;
+  border-radius: 10px;
+  font-family: "Roboto";
+}
