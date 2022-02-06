@@ -1,6 +1,7 @@
 import "./App.css";
 import React from "react";
 import Button from "./components/Button";
+import Radio from "./components/radiobuttons";
 
 function App() {
   const onClickHAndler = () => {
@@ -19,6 +20,7 @@ function App() {
           }
         }
       />
+      <Radio />
     </div>
   );
 }
