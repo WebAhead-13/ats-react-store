@@ -1,7 +1,6 @@
-var React = require('react');
+import React from "react";
 
-var Application = React.createClass({
-  render: function () {
+      const Radio = ({onChecked, option1value, option2value, option3value}) => {
     return (<div className="container">
     <div className="row">
       <div className="col-sm-12">
@@ -9,19 +8,19 @@ var Application = React.createClass({
         <form>
           <div className="radio">
             <label>
-              <input type="radio" value="option1" checked={true} />
+              <input type="radio" value="option1" checked={option1value} onChange = {e=>onChecked("option1",e)} />
               Option 1
             </label>
           </div>
           <div className="radio">
             <label>
-              <input type="radio" value="option2" />
+              <input type="radio" value="option2" checked={option2value} onChange = {e=>onChecked("option2",e)} />
               Option 2
             </label>
           </div>
           <div className="radio">
             <label>
-              <input type="radio" value="option3" />
+              <input type="radio" value="option3" checked={option3value} onChange = {e=>onChecked("option3",e)} />
               Option 3
             </label>
           </div>
@@ -32,6 +31,5 @@ var Application = React.createClass({
   </div>
   );
   }
-});
 
-module.exports = Application;
+  export default Radio; 
