@@ -1,5 +1,6 @@
 body {
   font-family: "Helvetica";
+  max-width: 100%;
 }
 h1,
 h2,
@@ -36,6 +37,10 @@ a {
   padding: 1rem;
   margin: 0.5rem;
   border-radius: 0.5rem;
+  width: 100%;
+  left: 0;
+  top: 0;
+  overflow: hidden;
 }
 .text-right {
   text-align: right;
