@@ -11,7 +11,7 @@
       "size": "7 inches in diameter",
       "price": 42.95,
       "stock": "5",
-      "images": ["/public/images/chocolate-mousse-torte-cake.png"],
+      "images": ["/images/chocolate-mousse-torte-cake.png"],
       "suggestion": [
         "Serves 6 to 8",
         "Ships Nationwide in Refrigerated Packaging",
@@ -33,7 +33,7 @@
       "size": "7 inches in diameter",
       "price": 39.95,
       "stock": "2",
-      "images": ["/public/images/triple-chocolate-enrobed-brownie-cake.png"],
+      "images": ["/images/triple-chocolate-enrobed-brownie-cake.png"],
       "suggestion": ["Serves 6 to 8", "Certified KOF-K Kosher"],
       "allegations": [
         "Unless otherwise noted, products contain milk, wheat, soy and egg, and were produced on equipment that processes peanuts, almonds, hazelnuts, pecans, walnuts.",
@@ -52,9 +52,9 @@
       "price": 3.19,
       "stock": "7",
       "images": [
-        "/public/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-1.jpg",
-        "/public/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-2.jpg",
-        "/public/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-3.jpg"
+        "/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-1.jpg",
+        "/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-2.jpg",
+        "/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-3.jpg"
       ],
       "suggestion": [
         " Shake it! Shake it! 4 times before use then remove cap.",
@@ -82,7 +82,7 @@
       "size": "7 inches in diameter",
       "price": 42.95,
       "stock": "4",
-      "images": ["/public/images/red-velvet-chocolate-cake.png"],
+      "images": ["/images/red-velvet-chocolate-cake.png"],
       "suggestion": [
         "Serves 6 to 8",
         "Certified KOF-K Kosher",
@@ -105,8 +105,8 @@
       "price": 5.19,
       "stock": "21",
       "images": [
-        "/public/images/rice-dream-original-non-dairy-beverage-organic-1.jpg",
-        "/public/images/rice-dream-original-non-dairy-beverage-organic-2.jpg"
+        "/images/rice-dream-original-non-dairy-beverage-organic-1.jpg",
+        "/images/rice-dream-original-non-dairy-beverage-organic-2.jpg"
       ],
       "suggestion": [
         "Shake well.",
@@ -129,7 +129,7 @@
       "size": "12ct",
       "price": 20.99,
       "stock": "3",
-      "images": ["/public/images/members-mark-mini-plain-sliced-bagels.jpg"],
+      "images": ["/images/members-mark-mini-plain-sliced-bagels.jpg"],
       "suggestion": [
         "Authentic New York-style kettle boiled bagels",
         "Soft, chewy and delicious",
@@ -150,9 +150,9 @@
       "price": 1.95,
       "stock": "15",
       "images": [
-        "/public/images/daiya-dairy-free-greek-yogurt-black-cherry-1.jpg",
-        "/public/images/daiya-dairy-free-greek-yogurt-black-cherry-2.jpg",
-        "/public/images/daiya-dairy-free-greek-yogurt-black-cherry-3.jpg"
+        "/images/daiya-dairy-free-greek-yogurt-black-cherry-1.jpg",
+        "/images/daiya-dairy-free-greek-yogurt-black-cherry-2.jpg",
+        "/images/daiya-dairy-free-greek-yogurt-black-cherry-3.jpg"
       ],
       "suggestion": ["Keep refrigerated."],
       "allegations": ["Contains coconut."]
@@ -168,7 +168,7 @@
       "size": "36ct",
       "price": 28.99,
       "stock": "12",
-      "images": ["/public/images/daily-chef-mini-candy-cookies.jpg"],
+      "images": ["/images/daily-chef-mini-candy-cookies.jpg"],
       "suggestion": [],
       "allegations": []
     },
@@ -184,8 +184,8 @@
       "price": 2.09,
       "stock": "15",
       "images": [
-        "/public/images/so-delicious-cultured-coconut-milk-yogurt-vanilla-dairy-soy-free-organic-1.jpg",
-        "/public/images/so-delicious-cultured-coconut-milk-yogurt-vanilla-dairy-soy-free-organic-2.jpg"
+        "/images/so-delicious-cultured-coconut-milk-yogurt-vanilla-dairy-soy-free-organic-1.jpg",
+        "/images/so-delicious-cultured-coconut-milk-yogurt-vanilla-dairy-soy-free-organic-2.jpg"
       ],
       "suggestion": ["Keep refrigerated."],
       "allegations": [
@@ -205,7 +205,7 @@
       "size": "32 pieces",
       "price": 39.95,
       "stock": "2",
-      "images": ["/public/images/gastons-bakery-small-puff-pastry-squares.jpg"],
+      "images": ["/images/gastons-bakery-small-puff-pastry-squares.jpg"],
       "suggestion": [],
       "allegations": [
         "Not available to ship to Hawaii or Alaska.",
@@ -223,7 +223,7 @@
       "size": "Large",
       "price": 59.99,
       "stock": "6",
-      "images": ["/public/images/signature-bakery-assortment.jpg"],
+      "images": ["/images/signature-bakery-assortment.jpg"],
       "suggestion": [],
       "allegations": [
         "Unless otherwise noted, products contain milk, wheat, soy and egg, and were produced on equipment that processes peanuts, almonds, hazelnuts, pecans, walnuts.",
@@ -242,9 +242,9 @@
       "price": 34.95,
       "stock": "8",
       "images": [
-        "/public/images/gastons-bakery-croissants-1.jpg",
-        "/public/images/gastons-bakery-croissants-2.jpg",
-        "/public/images/gastons-bakery-croissants-3.jpg"
+        "/images/gastons-bakery-croissants-1.jpg",
+        "/images/gastons-bakery-croissants-2.jpg",
+        "/images/gastons-bakery-croissants-3.jpg"
       ],
       "suggestion": ["15 ready-to-bake croissants"],
       "allegations": []
@@ -261,8 +261,8 @@
       "price": 1.92,
       "stock": "15",
       "images": [
-        "/public/images/so-delicious-cultured-coconut-milk-yogurt-vanilla-dairy-soy-free-organic-1.jpg",
-        "/public/images/so-delicious-cultured-coconut-milk-yogurt-vanilla-dairy-soy-free-organic-2.jpg"
+        "/images/so-delicious-cultured-coconut-milk-yogurt-vanilla-dairy-soy-free-organic-1.jpg",
+        "/images/so-delicious-cultured-coconut-milk-yogurt-vanilla-dairy-soy-free-organic-2.jpg"
       ],
       "suggestion": ["Keep refrigerated."],
       "allegations": ["Contains coconut."]
@@ -279,8 +279,8 @@
       "price": 1,
       "stock": "102",
       "images": [
-        "/public/images/celeste-pizza-for-one-vegetable-frozen-1.jpg",
-        "/public/images/celeste-pizza-for-one-vegetable-frozen-2.jpg"
+        "/images/celeste-pizza-for-one-vegetable-frozen-1.jpg",
+        "/images/celeste-pizza-for-one-vegetable-frozen-2.jpg"
       ],
       "suggestion": [
         "Do not put microwave disk in conventional oven.",
@@ -301,9 +301,9 @@
       "price": 6.99,
       "stock": "12",
       "images": [
-        "/public/images/nestle-coffee-matepowder-coffee-creamer-original-1.jpg",
-        "/public/images/nestle-coffee-matepowder-coffee-creamer-original-2.jpg",
-        "/public/images/nestle-coffee-matepowder-coffee-creamer-original-3.jpg"
+        "/images/nestle-coffee-matepowder-coffee-creamer-original-1.jpg",
+        "/images/nestle-coffee-matepowder-coffee-creamer-original-2.jpg",
+        "/images/nestle-coffee-matepowder-coffee-creamer-original-3.jpg"
       ],
       "suggestion": [
         "Spoon Coffee-Mate into prepared coffee, tea, or cocoa.",
@@ -323,8 +323,8 @@
       "price": 2.02,
       "stock": "1",
       "images": [
-        "/public/images/natures-promise-free-from-vanilla-almond-milk-refrigerated-1.jpg",
-        "/public/images/natures-promise-free-from-vanilla-almond-milk-refrigerated-2.jpg"
+        "/images/natures-promise-free-from-vanilla-almond-milk-refrigerated-1.jpg",
+        "/images/natures-promise-free-from-vanilla-almond-milk-refrigerated-2.jpg"
       ],
       "suggestion": [
         "Shake well + serve chilled.",
@@ -344,8 +344,8 @@
       "price": 2.39,
       "stock": "51",
       "images": [
-        "/public/images/weight-watchers-smart-ones-thin-crust-pizza-pepperoni-1.jpg",
-        "/public/images/weight-watchers-smart-ones-thin-crust-pizza-pepperoni-2.jpg"
+        "/images/weight-watchers-smart-ones-thin-crust-pizza-pepperoni-1.jpg",
+        "/images/weight-watchers-smart-ones-thin-crust-pizza-pepperoni-2.jpg"
       ],
       "suggestion": [
         "Keep frozen.",
@@ -367,7 +367,7 @@
       "price": 7.49,
       "stock": "11",
       "images": [
-        "/public/images/kelloggs-special-k-flatbread-breakfast-sandwich-sausage-egg-and-cheese.jpg"
+        "/images/kelloggs-special-k-flatbread-breakfast-sandwich-sausage-egg-and-cheese.jpg"
       ],
       "suggestion": ["Keep frozen."],
       "allegations": [
@@ -387,7 +387,7 @@
       "size": "10 ct",
       "price": 3.32,
       "stock": "11",
-      "images": ["/public/images/kelloggs-eggo-chocolate-chip-waffles.jpg"],
+      "images": ["/images/kelloggs-eggo-chocolate-chip-waffles.jpg"],
       "suggestion": ["Keep frozen."],
       "allegations": [
         "Contains Eggs",
@@ -407,7 +407,7 @@
       "size": "40 pcs",
       "price": 4.99,
       "stock": "6",
-      "images": ["/public/images/deep-cocktail-samosa-potato-pea.jpg"],
+      "images": ["/images/deep-cocktail-samosa-potato-pea.jpg"],
       "suggestion": ["Keep frozen."],
       "allegations": ["Contains Eggs", "High Spices", "Contains Preservatives"]
     }

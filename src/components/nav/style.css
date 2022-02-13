@@ -1,0 +1,39 @@
+.navBar {
+  background-color: #337ab7;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  border-color: black;
+  justify-content: space-between;
+  height: 55px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.primary-c {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 170px;
+  align-items: center;
+  /* width: 250px; */
+  height: 45px;
+  /* flex-wrap: wrap; */
+}
+
+.title {
+  display: flex;
+  flex-wrap: wrap;
+  padding-right: 20px;
+  font-size: x-large;
+}
+
+.home-button {
+  padding-right: 20px;
+}
+
+.secondary-c {
+  display: flex;
+  width: 250px;
+  /* justify-content: space-around; */
+  margin-right: 100px;
+}
